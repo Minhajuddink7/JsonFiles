@@ -1,0 +1,23 @@
+{
+    
+    "people" : [
+    {
+        "name":"minhaj",
+        "age": 25
+    },
+    {
+        "name": "wali",
+        "age": 20
+    },
+    {
+        "name": "saad",
+        "age": 14
+    },
+    {
+        "name": "rifa",
+        "age": 10
+    }
+]
+
+}
+    
