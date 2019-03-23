@@ -1,27 +1,6 @@
 {
     
-    "people" : [
-    {
-        "id":1,
-        "name":"minhaj",
-        "age": 25
-    },
-    {
-        "id":2,
-        "name": "wali",
-        "age": 20
-    },
-    {
-        "id":3,
-        "name": "saad",
-        "age": 14
-    },
-    {
-        "id":4,
-        "name": "rifa",
-        "age": 10
-    }
-]
+    "people" : "Minhaj"
 
 }
     
